@@ -24,10 +24,10 @@ The following tasks were completed to meet the criteria:
 
 ## Screenshot of the Website
 
-![screenshot of main page](./Assets/screenshot-of-main-page)
-![screenshot of quiz on-going](./Assets/screenshot-of-quiz-on-going)
-![screenshot of result page](./Assets/screenshot-of-result-page)
-![screenshot of scoreboard page](./Assets/screenshot-of-scoreboard)
+![screenshot of main page](./Assets/screenshot-of-main-page.png)
+![screenshot of quiz on-going](./Assets/screenshot-of-quiz-on-going.png)
+![screenshot of result page](./Assets/screenshot-of-result-page.png)
+![screenshot of scoreboard page](./Assets/screenshot-of-scoreboard.png)
 
 ## Links
 
